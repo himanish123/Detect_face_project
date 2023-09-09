@@ -1,1 +1,1 @@
-# Detect_face_project
+# Face Detection in C++
